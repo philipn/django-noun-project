@@ -1,5 +1,7 @@
 A Django template tag to render noun icons from the totally sweet `Noun Project <http://thenounproject.com>`_!
 
+.. image:: http://mathburritos.org/misc/icons_for_github.png
+
 Installation
 ============
 
