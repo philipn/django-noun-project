@@ -11,18 +11,18 @@ Usage
 
 Inside a template:
 
-  ``{% load noun_icon %}``
+  {% load noun_icon %}
 
 then simply:
 
-  ``{% noun_icon "coffee" %}``
+  {% noun_icon "coffee" %}
 
 To make a pretty coffee icon appear!
 
 Examples:
 
-  ``{% noun_icon "coffee" width="50px" %}``
+  {% noun_icon "coffee" width="50px" %}
 
-  ``{% noun_icon "coffee" width="50px" height="200px" %}``
+  {% noun_icon "coffee" width="50px" height="200px" %}
 
-  ``{% noun_icon "coffee" as coffee %}``
+  {% noun_icon "coffee" as coffee %}
