@@ -3,7 +3,7 @@ A Django template tag to render noun icons from the totally sweet `Noun Project 
 Installation
 ============
 
-1. ``python setup.py install``
+1. ``pip install django-noun-project`` or, from source, ``python setup.py install``
 2. Add ``noun_project`` to your ``INSTALLED_APPS``
 
 Usage
