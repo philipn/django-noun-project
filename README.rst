@@ -2,6 +2,11 @@ A Django template tag to render noun icons from the totally sweet `Noun Project 
 
 .. image:: http://mathburritos.org/misc/icons_for_github.png
 
+Note
+====
+
+2015-7: This project may need updating, as it looks like the noun project API endpoints have changed.
+
 Installation
 ============
 
